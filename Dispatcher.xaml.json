@@ -18,18 +18,6 @@
       "DataSourceItems": null
     },
     {
-      "Name": "in_Config",
-      "DisplayName": "in_Config",
-      "Category": null,
-      "Tooltip": null,
-      "Placeholder": null,
-      "Widget": null,
-      "IsRequired": false,
-      "IsPrincipal": true,
-      "ArgumentType": 0,
-      "DataSourceItems": null
-    },
-    {
       "Name": "in_OrchestartorFolder",
       "DisplayName": "in_OrchestartorFolder",
       "Category": null,
